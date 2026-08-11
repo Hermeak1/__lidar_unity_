@@ -1,0 +1,14 @@
+# .NET 빌드 산출물
+bin/
+obj/
+packages/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.cache
+
+# OS
+Thumbs.db
+.DS_Store
